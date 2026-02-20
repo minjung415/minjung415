@@ -76,6 +76,8 @@ You can click the Preview link to take a look at your changes.
 
 🔗 Repository: [TodoTravel](https://github.com/11dontcare)
 
-## 📫 Contact
+---
+
+# 📫 Contact
 
 - Email: alswjd8922@gmail.com
